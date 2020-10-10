@@ -4,7 +4,7 @@ date: 2020-10-10 11:02:38
 tags:
 	- web
 	- flask
-catagory: flask
+category: flask
 ---
 
 ### flask简介
